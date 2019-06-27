@@ -1,0 +1,17 @@
+Flask==1.0.3
+Flask-Cors==3.0.8
+Flask-RESTful==0.3.7
+
+boto3==1.9.174
+botocore==1.12.174
+
+Keras==2.2.4
+tensorboard==1.14.0
+tensorflow==1.14.0
+tensorflow-estimator==1.14.0
+
+librosa==0.6.3
+numpy==1.16.4
+
+Click==7.0
+tqdm==4.32.2
